@@ -12,8 +12,6 @@
 
 #import "YXYNavigationController.h"
 
-#import "TableViewController.h"
-
 @interface ViewController ()
 
 @end
@@ -25,6 +23,7 @@
     [super viewDidLoad];
     
     [self createRightBarButtonItemWithTitle:@"下一页"];
+<<<<<<< HEAD
     //    [YXYNavigationController pushViewControllerClass:[ViewControllerNext class] withSwitchParam:p];
     //    //    YXYViewControllerSwitchParam *p = [YXYViewControllerSwitchParam new];
     //    p.param[@"data"] = @"fromViewController";
@@ -39,10 +38,14 @@
     //    //    YXYViewControllerSwitchParam *p = [YXYViewControllerSwitchParam new];
     //    p.param[@"data"] = @"fromViewController";
     //    [YXYNavigationController pushViewControllerClass:[ViewControllerNext class] withSwitchParam:p];
+=======
+
+>>>>>>> parent of 1870b24... 1，修改bug
 }
 
 -(void)clickedRightBarButton:(id)sender
 {
+<<<<<<< HEAD
 //    YXYViewControllerSwitchParam *p = [YXYViewControllerSwitchParam new];
 //    p.param[@"data"] = @"fromViewController";
 //    [YXYNavigationController pushViewControllerClass:[ViewControllerNext class] withSwitchParam:p];
@@ -88,6 +91,11 @@
     //    [YXYNavigationController pushViewControllerClass:[ViewControllerNext class] withSwitchParam:p];
     //
     [YXYNavigationController pushViewController:[TableViewController new]];
+=======
+    YXYViewControllerSwitchParam *p = [YXYViewControllerSwitchParam new];
+    p.param[@"data"] = @"fromViewController";
+    [YXYNavigationController pushViewControllerClass:[ViewControllerNext class] withSwitchParam:p];
+>>>>>>> parent of 1870b24... 1，修改bug
 }
 
 - (void)didReceiveMemoryWarning
