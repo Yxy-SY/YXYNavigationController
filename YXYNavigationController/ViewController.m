@@ -32,7 +32,47 @@
 //    YXYViewControllerSwitchParam *p = [YXYViewControllerSwitchParam new];
 //    p.param[@"data"] = @"fromViewController";
 //    [YXYNavigationController pushViewControllerClass:[ViewControllerNext class] withSwitchParam:p];
-//    
+//
+    //    YXYViewControllerSwitchParam *p = [YXYViewControllerSwitchParam new];
+    //    p.param[@"data"] = @"fromViewController";
+    //    [YXYNavigationController pushViewControllerClass:[ViewControllerNext class] withSwitchParam:p];
+    //    //    YXYViewControllerSwitchParam *p = [YXYViewControllerSwitchParam new];
+    //    p.param[@"data"] = @"fromViewController";
+    //    [YXYNavigationController pushViewControllerClass:[ViewControllerNext class] withSwitchParam:p];
+    //    //    YXYViewControllerSwitchParam *p = [YXYViewControllerSwitchParam new];
+    //    p.param[@"data"] = @"fromViewController";
+    //    [YXYNavigationController pushViewControllerClass:[ViewControllerNext class] withSwitchParam:p];
+    //    //    YXYViewControllerSwitchParam *p = [YXYViewControllerSwitchParam new];
+    //    p.param[@"data"] = @"fromViewController";
+    //    [YXYNavigationController pushViewControllerClass:[ViewControllerNext class] withSwitchParam:p];
+    //    //    YXYViewControllerSwitchParam *p = [YXYViewControllerSwitchParam new];
+    //    p.param[@"data"] = @"fromViewController";
+    //    [YXYNavigationController pushViewControllerClass:[ViewControllerNext class] withSwitchParam:p];
+    //    //    YXYViewControllerSwitchParam *p = [YXYViewControllerSwitchParam new];
+    //    p.param[@"data"] = @"fromViewController";
+    //    [YXYNavigationController pushViewControllerClass:[ViewControllerNext class] withSwitchParam:p];
+    //    //    YXYViewControllerSwitchParam *p = [YXYViewControllerSwitchParam new];
+    //    p.param[@"data"] = @"fromViewController";
+    //    [YXYNavigationController pushViewControllerClass:[ViewControllerNext class] withSwitchParam:p];
+    //    //    YXYViewControllerSwitchParam *p = [YXYViewControllerSwitchParam new];
+    //    p.param[@"data"] = @"fromViewController";
+    //    [YXYNavigationController pushViewControllerClass:[ViewControllerNext class] withSwitchParam:p];
+    //    //    YXYViewControllerSwitchParam *p = [YXYViewControllerSwitchParam new];
+    //    p.param[@"data"] = @"fromViewController";
+    //    [YXYNavigationController pushViewControllerClass:[ViewControllerNext class] withSwitchParam:p];
+    //    //    YXYViewControllerSwitchParam *p = [YXYViewControllerSwitchParam new];
+    //    p.param[@"data"] = @"fromViewController";
+    //    [YXYNavigationController pushViewControllerClass:[ViewControllerNext class] withSwitchParam:p];
+    //    //    YXYViewControllerSwitchParam *p = [YXYViewControllerSwitchParam new];
+    //    p.param[@"data"] = @"fromViewController";
+    //    [YXYNavigationController pushViewControllerClass:[ViewControllerNext class] withSwitchParam:p];
+    //    //    YXYViewControllerSwitchParam *p = [YXYViewControllerSwitchParam new];
+    //    p.param[@"data"] = @"fromViewController";
+    //    [YXYNavigationController pushViewControllerClass:[ViewControllerNext class] withSwitchParam:p];
+    //    //    YXYViewControllerSwitchParam *p = [YXYViewControllerSwitchParam new];
+    //    p.param[@"data"] = @"fromViewController";
+    //    [YXYNavigationController pushViewControllerClass:[ViewControllerNext class] withSwitchParam:p];
+    //
     [YXYNavigationController pushViewController:[TableViewController new]];
 }
 

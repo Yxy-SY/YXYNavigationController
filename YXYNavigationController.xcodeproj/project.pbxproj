@@ -23,6 +23,7 @@
 		B16CD2F21F68D5F000A7329F /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B16CD2F11F68D5F000A7329F /* TableViewController.m */; };
 		B16CD2F51F68D83100A7329F /* XUIRefreshHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = B16CD2F41F68D83100A7329F /* XUIRefreshHeaderView.m */; };
 		B16CD2F81F68DDE300A7329F /* NSStringExtend.m in Sources */ = {isa = PBXBuildFile; fileRef = B16CD2F71F68DDE300A7329F /* NSStringExtend.m */; };
+		B1DDC8C92005E85B001DF6BB /* test.m in Sources */ = {isa = PBXBuildFile; fileRef = B1DDC8C82005E85B001DF6BB /* test.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -57,6 +58,8 @@
 		B16CD2F41F68D83100A7329F /* XUIRefreshHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XUIRefreshHeaderView.m; path = YXYTool/XUIRefreshHeaderView.m; sourceTree = "<group>"; };
 		B16CD2F61F68DDE300A7329F /* NSStringExtend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NSStringExtend.h; path = YXYTool/NSStringExtend.h; sourceTree = "<group>"; };
 		B16CD2F71F68DDE300A7329F /* NSStringExtend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NSStringExtend.m; path = YXYTool/NSStringExtend.m; sourceTree = "<group>"; };
+		B1DDC8C72005E85B001DF6BB /* test.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test.h; sourceTree = "<group>"; };
+		B1DDC8C82005E85B001DF6BB /* test.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +133,8 @@
 				B145F37F1F66727200CB9BFA /* UIViewController+YXYViewConroller.m */,
 				B145F37B1F6671F400CB9BFA /* UIViewController+YXYNavigationController.h */,
 				B145F37C1F6671F400CB9BFA /* UIViewController+YXYNavigationController.m */,
+				B1DDC8C72005E85B001DF6BB /* test.h */,
+				B1DDC8C82005E85B001DF6BB /* test.m */,
 			);
 			name = YXYNavigationController;
 			sourceTree = "<group>";
@@ -224,6 +229,7 @@
 				B145F3571F66320F00CB9BFA /* AppDelegate.m in Sources */,
 				B145F3731F6635D800CB9BFA /* YXYNavigationPopAnimator.m in Sources */,
 				B145F3721F6635D800CB9BFA /* YXYNavigationController.m in Sources */,
+				B1DDC8C92005E85B001DF6BB /* test.m in Sources */,
 				B145F3541F66320F00CB9BFA /* main.m in Sources */,
 				B161ED8B1F68CC7B005D4623 /* UIViewExtend.m in Sources */,
 				B145F37D1F6671F400CB9BFA /* UIViewController+YXYNavigationController.m in Sources */,
