@@ -25,6 +25,20 @@
     [super viewDidLoad];
     
     [self createRightBarButtonItemWithTitle:@"下一页"];
+    //    [YXYNavigationController pushViewControllerClass:[ViewControllerNext class] withSwitchParam:p];
+    //    //    YXYViewControllerSwitchParam *p = [YXYViewControllerSwitchParam new];
+    //    p.param[@"data"] = @"fromViewController";
+    //    [YXYNavigationController pushViewControllerClass:[ViewControllerNext class] withSwitchParam:p];
+    //    //    YXYViewControllerSwitchParam *p = [YXYViewControllerSwitchParam new];
+    //    p.param[@"data"] = @"fromViewController";
+    //    [YXYNavigationController pushViewControllerClass:[ViewControllerNext class] withSwitchParam:p];
+    //    [YXYNavigationController pushViewControllerClass:[ViewControllerNext class] withSwitchParam:p];
+    //    //    YXYViewControllerSwitchParam *p = [YXYViewControllerSwitchParam new];
+    //    p.param[@"data"] = @"fromViewController";
+    //    [YXYNavigationController pushViewControllerClass:[ViewControllerNext class] withSwitchParam:p];
+    //    //    YXYViewControllerSwitchParam *p = [YXYViewControllerSwitchParam new];
+    //    p.param[@"data"] = @"fromViewController";
+    //    [YXYNavigationController pushViewControllerClass:[ViewControllerNext class] withSwitchParam:p];
 }
 
 -(void)clickedRightBarButton:(id)sender
